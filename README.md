@@ -1,2 +1,2 @@
 # Library-Management-System
-A simple Library Management System designed for a school. 
+A simple Library Management System designed for a school using Java.
